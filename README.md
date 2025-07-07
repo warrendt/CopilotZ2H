@@ -21,5 +21,4 @@ Expect hands-on demos, expert tips, and real-world use cases to boost your produ
 https://copilotzerotohero.co.za/#:~:text=20%20Weeks%20of%20Copilot%20Awesomeness
 
 Let’s go from Zero to Hero — together. 💪
-@Tracy Van der Schyff @Jacqui Muller @Alistair Pugin @Jason Baxter @Warren du Toit @Carike Botha
 
