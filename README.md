@@ -18,7 +18,7 @@ Expect hands-on demos, expert tips, and real-world use cases to boost your produ
 🤝 Connect with the community.
 
 👉 View the schedule & register for the first session:
-https://copilotzerotohero.co.za/#:~:text=20%20Weeks%20of%20Copilot%20Awesomeness
+https://copilotzerotohero.co.za/
 
 Let’s go from Zero to Hero — together. 💪
 
