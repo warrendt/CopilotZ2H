@@ -1,4 +1,4 @@
-# 📘 Three Strategies for AI
+# 📘 CZTH Session 2: Three Strategies for AI
 
 Welcome to the official repository for **Three Strategies for AI**, a foundational resource for organizations and individuals preparing to adopt and scale AI solutions using Microsoft Copilot and related technologies.
 
