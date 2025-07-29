@@ -1,4 +1,4 @@
-# CZTH Session 2: Assembling Your AI Council
+# 👩‍⚖️ CopilotZ2H Session 2: Assembling Your AI Council
 
 Welcome to the resource hub for **Session 2: Assembling Your AI Council**, part of the Copilot Zero To Hero Journey (CZTH). This repository contains materials designed to help organisations establish a cross-functional AI Council to guide responsible and impactful adoption of Microsoft Copilot.
 
