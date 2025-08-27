@@ -4,7 +4,7 @@ Welcome to the repository for **Session 4: Preparing the Tenant**, part of the C
 
 ## 📁 Files Included
 
-- `Session 4- Preparing the Tenant.pptx`: A structured set of technical and organizational steps required to prepare your Microsoft 365 environment for successful Copilot deployment.
+- `Session 4- Preparing the Tenant.pdf`: A structured set of technical and organizational steps required to prepare your Microsoft 365 environment for successful Copilot deployment.
 
 ## 🎯 Objective
 
