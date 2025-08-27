@@ -1,6 +1,10 @@
-# Session 4: Preparing the Tenant for Microsoft 365 Copilot
+# CopilotZ2H Session 4: Preparing the Tenant for Microsoft 365 Copilot
 
-Welcome to the repository for **Session 4: Preparing the Tenant**, part of the Copilot Zero to Hero series. This session, led by Alistair Pugin, focuses on the technical and organizational steps required to prepare your Microsoft 365 environment for successful Copilot deployment.
+Welcome to the repository for **Session 4: Preparing the Tenant**, part of the Copilot Zero To Hero Journey (CZTH). This repository contains materials designed to focus on the technical and organizational steps required to prepare your Microsoft 365 environment for successful Copilot deployment.
+
+## 📁 Files Included
+
+- `Session 4- Preparing the Tenant.pptx`: A structured set of technical and organizational steps required to prepare your Microsoft 365 environment for successful Copilot deployment.
 
 ## 🎯 Objective
 
@@ -65,3 +69,7 @@ To equip IT professionals, architects, and business leaders with the knowledge a
 - Apply appropriate data protection controls
 - Choose the right update channel (Monthly Enterprise Channel recommended)
 - Build a strong user enablement and adoption strategy
+
+## 🙌 Credits
+
+Session led by **Alistair Pugin**, CEO | Microsoft MVP | Enterprise Architect | Podcaster.
